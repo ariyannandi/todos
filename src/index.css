@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: linear-gradient(180deg, rgba(2, 0, 36, 1), rgba(121, 121, 154, 1))
+    no-repeat fixed;
+}
